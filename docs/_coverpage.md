@@ -1,5 +1,5 @@
 # WHY's Blog
 
-> 不积跬步, 无以至千里
+> WHY there is no introduction
 
-[滚动鼠标](README.md)
+[learn more](README.md)
