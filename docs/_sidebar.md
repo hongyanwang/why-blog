@@ -5,9 +5,9 @@
 
 - Ubuntu
 
-  - [Ubuntu介绍](Ubuntu/(一)%20ubuntu介绍.md)
-  - [Ubuntu命令](Ubuntu/(二)%20ubuntu命令.md)
-  - [Ubuntu常见问题](Ubuntu/(三)%20ubuntu常见问题.md)
+  - [Ubuntu介绍](Ubuntu/1.%20ubuntu介绍.md)
+  - [Ubuntu命令](Ubuntu/2.%20ubuntu命令.md)
+  - [Ubuntu常见问题](Ubuntu/3.%20ubuntu常见问题.md)
 
 - 数字签名
 
@@ -15,8 +15,8 @@
 
 - Intel SGX
 
-  - [Introduction](Intel%20Sgx/(一)%20sgx介绍.md)
-  - [Enclave signature](Intel%20Sgx/(二)%20Enclave%20Signature.md)
+  - [Introduction](Intel%20Sgx/1.%20sgx介绍.md)
+  - [Enclave signature](Intel%20Sgx/2.%20Enclave%20Signature.md)
   - [Attestation](Intel%20Sgx/3.%20Attestation.md)
     - [Local Attestation](Intel%20Sgx/3.1%20Local%20Attestation.md)
     - [Remote Attestation](Intel%20Sgx/3.2%20Remote%20Attestation.md)
