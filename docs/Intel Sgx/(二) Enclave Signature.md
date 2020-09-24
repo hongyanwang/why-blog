@@ -1,3 +1,0 @@
-### Enclave Signature
-
-Sgx
