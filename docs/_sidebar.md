@@ -15,13 +15,13 @@
 
 - Intel SGX
 
-  - [Introduction](Intel%20Sgx/1.%20sgx介绍.md)
-  - [Enclave signature](Intel%20Sgx/2.%20Enclave%20Signature.md)
-  - [Attestation](Intel%20Sgx/3.%20Attestation.md)
-    - [Local Attestation](Intel%20Sgx/3.1%20Local%20Attestation.md)
-    - [Remote Attestation](Intel%20Sgx/3.2%20Remote%20Attestation.md)
-  - [Sealing](Intel%20Sgx/4.%20sealing.md)
-  - [Processor features](Intel%20Sgx/5.%20Processor%20features.md)
-  - [Power management](Intel%20Sgx/6.%20Power%20management.md)
+  - [Introduction](Intel%20SGX/1.%20sgx介绍.md)
+  - [Enclave signature](Intel%20SGX/2.%20Enclave%20Signature.md)
+  - [Attestation](Intel%20SSGX/3.%20Attestation.md)
+    - [Local Attestation](Intel%20SSGX/3.1%20Local%20Attestation.md)
+    - [Remote Attestation](Intel%20SSGX/3.2%20Remote%20Attestation.md)
+  - [Sealing](Intel%20SSGX/4.%20sealing.md)
+  - [Processor features](Intel%20SSGX/5.%20Processor%20features.md)
+  - [Power management](Intel%20SSGX/6.%20Power%20management.md)
   
   
