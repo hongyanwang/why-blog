@@ -11,7 +11,7 @@
 
 - 数字签名
 
-  - [门限多签秘密共享](Signatures/1.%20门限多重盲签.md)
+  - [多种签名技术](Signatures/1.%20多种签名技术.md)
 
 - Intel SGX
 
